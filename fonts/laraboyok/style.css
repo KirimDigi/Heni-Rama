@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Laraboyok';
+    src: url('laraboyok-2.eot');
+    src: url('laraboyok-2.eot') format('embedded-opentype'),
+         url('laraboyok-2.woff2') format('woff2'),
+         url('laraboyok-2.woff') format('woff'),
+         url('laraboyok-2.ttf')  format('truetype'),
+         url('laraboyok-2.svg') format('svg');
+}

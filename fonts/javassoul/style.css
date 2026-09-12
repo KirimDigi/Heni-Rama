@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Javassoul';
+    src: url('Javassoul.eot');
+    src: url('Javassoul.eot?#iefix') format('embedded-opentype'),
+         url('Javassoul.woff2') format('woff2'),
+         url('Javassoul.woff') format('woff'),
+         url('Javassoul.ttf')  format('truetype'),
+         url('Javassoul.svg#Javassoul') format('svg');
+}
